@@ -1,16 +1,17 @@
-## Hi there 👋
+# Piyush Sachdeva
 
-<!--
-**piyushsachdv/piyushsachdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+## Tech Stack
+- Docker, GitHub Actions, Terraform, Jenkins
+- AWS (EC2, S3, IAM), Linux, Bash, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## DevOps Projects
+- CI/CD Pipeline using GitHub Actions
+- Dockerized Application Deployment
+- AWS Infrastructure with Terraform
+- Centralized Logging System (ELK Stack)
+- Jenkins Automation System
+
+## Focus
+Building scalable, automated, and production-ready DevOps systems.
